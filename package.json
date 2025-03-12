@@ -121,7 +121,7 @@
     "compression": "^1.7.4",
     "concurrently": "^5.3.0",
     "config": "^3.3.7",
-    "cookie-parser": "^1.4.5",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dottie": "^2.0.2",
     "download": "^8.0.0",
