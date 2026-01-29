@@ -46,7 +46,7 @@
     "core-js": "^3.22.5",
     "ethers": "^5.7.2",
     "file-saver": "^2.0.2",
-    "findup-sync": "2.0.0",
+    "findup-sync": "4.0.0",
     "flag-icons": "^6.9.2",
     "font-mfizz": "^2.4.1",
     "jwt-decode": "^2.2.0",
